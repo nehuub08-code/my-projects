@@ -1,0 +1,6 @@
+{
+  "name": "Remix: SpamShield Desktop",
+  "description": "A cross-platform desktop-style application for real-time spam detection using locally-hosted machine learning logic. Features a modern dark/light mode UI, Gmail integration simulation, and instant notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
